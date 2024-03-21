@@ -29,7 +29,7 @@ import {
 	ToolboxConfiguration,
 	UidGenerator,
 	ValidatorConfiguration
-} from 'tezo-sequential-workflow-designer';
+} from 'tezo-sequential-workflow-designer/src';
 
 export interface GlobalEditorWrapper {
 	definition: Definition;
