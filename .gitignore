@@ -1,3 +1,5 @@
 /.angular
 /.vscode
 /designer-dist
+node_modules
+node_modules
