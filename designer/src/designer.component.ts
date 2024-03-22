@@ -1,3 +1,5 @@
+
+
 import {
 	AfterViewInit,
 	ApplicationRef,
@@ -29,7 +31,7 @@ import {
 	ToolboxConfiguration,
 	UidGenerator,
 	ValidatorConfiguration
-} from 'tezo-sequential-workflow-designer/src';
+} from 'tezo-sequential-workflow-designer';
 
 export interface GlobalEditorWrapper {
 	definition: Definition;
