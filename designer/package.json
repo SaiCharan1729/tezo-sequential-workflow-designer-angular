@@ -1,7 +1,7 @@
 {
 	"name": "tezo-sequential-workflow-designer-angular",
 	"description": "Forked Angular wrapper for Sequential Workflow Designer component.",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"author": {
 		"name": "NoCode JS",
 		"url": "https://nocode-js.com/"
