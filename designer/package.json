@@ -15,8 +15,7 @@
 	"peerDependencies": {
 		"@angular/common": "12 - 16",
 		"@angular/core": "12 - 16",
-		"tezo-sequential-workflow-designer":"1.0.14"
-		
+		"tezo-sequential-workflow-designer":"1.0.15"
 	},
 	"dependencies": {
 		"tslib": "^2.3.0"
